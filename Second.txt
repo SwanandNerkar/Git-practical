@@ -1,2 +1,3 @@
 learning Git final run
 new
+learning tags and adding it to local and remote repo
